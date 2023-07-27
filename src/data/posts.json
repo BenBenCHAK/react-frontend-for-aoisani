@@ -1,0 +1,20 @@
+[
+  {
+    "datetime": "2023-07-21T08:27:01.167Z",
+    "title": "Hmmm",
+    "content": "This is my <b>third</b> post!",
+    "tags": ["tag1"]
+  },
+  {
+    "datetime": "2023-07-21T08:27:01.167Z",
+    "title": "Another post",
+    "content": "This is my second post!",
+    "tags": []
+  },
+  {
+    "datetime": "2023-07-21T08:19:34.637Z",
+    "title": "Hello world!",
+    "content": "This is my first post!",
+    "tags": ["tag1", "tag2"]
+  }
+]
